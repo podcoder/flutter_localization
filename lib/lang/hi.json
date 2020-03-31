@@ -1,0 +1,15 @@
+{
+    "home_page": "मुख पृष्ठ",
+    "personal_information": "व्यक्तिगत जानकारी",
+    "name": "नाम",
+    "name_hint": "अपना नाम दर्ज करें",
+    "email": "ईमेल",
+    "email_hint": "अपना ईमेल दर्ज करें",
+    "date_of_birth": "जन्म की तारीख",
+    "required_field": "आवश्यक क्षेत्र",
+    "submit_info": "जानकारी जमा करें",
+    "about_us": "हमारे बारे में",
+    "settings": "समायोजन",
+    "change_language": "भाषा बदलो",
+    "about": "Lorem Ipsum छपाई और अक्षर योजन उद्योग का एक साधारण डमी पाठ है. Lorem Ipsum सन १५०० के बाद से अभी तक इस उद्योग का मानक डमी पाठ मन गया, जब एक अज्ञात मुद्रक ने नमूना लेकर एक नमूना किताब बनाई. यह न केवल पाँच सदियों से जीवित रहा बल्कि इसने इलेक्ट्रॉनिक मीडिया में छलांग लगाने के बाद भी मूलतः अपरिवर्तित रहा. यह 1960 के दशक में Letraset Lorem Ipsum अंश युक्त पत्र के रिलीज के साथ लोकप्रिय हुआ, और हाल ही में Aldus PageMaker Lorem Ipsum के संस्करणों सहित तरह डेस्कटॉप प्रकाशन सॉफ्टवेयर के साथ अधिक प्रचलित हुआ.try's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+}
